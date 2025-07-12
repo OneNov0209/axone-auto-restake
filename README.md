@@ -1,6 +1,5 @@
 Here's the English version while preserving all the markdown formatting:
 
-```
 # 🤖 Axone AutoStake
 
 Automated shell script to withdraw rewards and instantly redelegate (re-stake) to your Axone validator. Features real-time Telegram notifications.
@@ -22,7 +21,7 @@ Automated shell script to withdraw rewards and instantly redelegate (re-stake) t
 - `jq`, `bc`, and `curl` installed
 - Telegram Bot token from [BotFather](https://t.me/BotFather)
 - Chat ID from [@userinfobot](https://t.me/userinfobot)
-
+---
 ## 🛠️ Setup
 
 1. Clone this repository:
