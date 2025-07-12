@@ -1,4 +1,4 @@
-Here's the English version while preserving all the markdown formatting:
+<img src="https://i.ibb.co/pj54xff7/Screenshot-2025-07-13-03-11-14-568-com-i-Me-android-edit.jpg" alt="Screenshot-2025-07-13-03-11-14-568-com-i-Me-android-edit" border="0">
 
 # 🤖 Axone AutoStake
 
