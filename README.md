@@ -1,4 +1,7 @@
-<img src="https://i.ibb.co/pj54xff7/Screenshot-2025-07-13-03-11-14-568-com-i-Me-android-edit.jpg" alt="Screenshot-2025-07-13-03-11-14-568-com-i-Me-android-edit" border="0">
+<img src="https://i.ibb.co/pj54xff7/Screenshot-2025-07-13-03-11-14-568-com-i-Me-android-edit.jpg" 
+     alt="Screenshot" 
+     width="500" 
+     border="0">
 
 # 🤖 Axone AutoStake
 
